@@ -1,8 +1,0 @@
-READ ME
-
-// Serial implemenentation
-make serial 
-// CUDA implemenentation
-make cuda
-// Hybrid implemenentation
-make hybrid
